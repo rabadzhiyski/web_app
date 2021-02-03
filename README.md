@@ -23,7 +23,6 @@ Before doing the steps create a free account to Heroku.
 `python3 -m venv worldbankvenv`
 
 `source worldbankenv/bin/activate`
->>>>>>> 420c04ed7c783e4256113763df539796cc1c921e
 
 **2. Install the necessary libraries**
 
