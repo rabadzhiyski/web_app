@@ -14,10 +14,11 @@ gunicorn
 ## Heroku installation
 Before doing the steps create a free account to Heroku.
 
-**1. Update conda and create a virtual environment** (in case Anaconda installed, if not, skip that step)
-conda update python
+**1. Update conda and create a virtual environment** (in case Anaconda installed, if not, skip that step).
+
+''' conda update python
 python3 -m venv worldbankvenv
-source worldbankenv/bin/activate
+source worldbankenv/bin/activate '''
 
 **2. Install the necessary libraries**
 pip install flask pandas plotly gunicorn
