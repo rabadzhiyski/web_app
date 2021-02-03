@@ -1,5 +1,7 @@
 # web_app
-World Bank Data Dashboard of top 10 World Economies
+World Bank Data Dashboard of top 10 World Economies.
+
+https://example-worldbank-app.herokuapp.com/
 
 ## Contents
 The repository contains an example of a web application installed on [Heroku](https://heroku.com)
@@ -11,7 +13,7 @@ The repository contains an example of a web application installed on [Heroku](ht
 - gunicorn
 
 
-## Heroku installation
+## Heroku installation (in case interested to install it yourself from scratch)
 Before doing the steps create a free account to Heroku.
 
 **1. Update conda and create a virtual environment** (in case Anaconda installed, if not, skip that step)
