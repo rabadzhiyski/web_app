@@ -1,4 +1,4 @@
-# web_app
+# Web application 
 World Bank Data Dashboard of top 10 World Economies. Created a web-application hosted on Heroku that extracts, transforms and load data into a Dashboard.
 
 https://example-worldbank-app.herokuapp.com/
