@@ -3,6 +3,8 @@ World Bank Data Dashboard of top 10 World Economies. Created a web-application h
 
 https://example-worldbank-app.herokuapp.com/
 
+<img src="https://github.com/rabadzhiyski/web_app/blob/main/web-app.png" width="900">
+
 ## Contents
 The repository contains an example of a web application installed on [Heroku](https://heroku.com)
 
@@ -78,6 +80,4 @@ https://devcenter.heroku.com/articles/heroku-cli#standalone-installation`
 `git push heroku master`
 
 ## Acknowledgements
-This web-app is part of Udacity Data Science Nanodegree program. 
-
-Most of the code was already billed within the program exercise.
+This web-app is part of [Udacity Data Science Nanodegree program.](https://www.udacity.com/school-of-data-science) Code templates and data were provided by Udacity.
